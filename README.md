@@ -1,2 +1,2 @@
-Wall of github projects in an organizations
+Wall of github projects in an organization
 ======
